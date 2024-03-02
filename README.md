@@ -34,5 +34,5 @@ This is a versatile and lightweight text editor web application designed for sim
 ## Deployment links
 https://pwa-web-app-iota.vercel.app/
 
+https://yasirjamah123.github.io/text-editor/
 
-Deploy the text editor web application to your preferred hosting platform, such as Vercel, Netlify, or Heroku. These platforms provide easy deployment options for static sites, ensuring your application is accessible to users worldwide.
